@@ -1,0 +1,105 @@
+    .glr-heading {
+        font-family: cursive;
+        font-weight: bold;
+        color: rgb(1, 1, 53);
+        padding: 5px;
+        margin: 5px;
+    }
+    .glr-p-size {
+        font-size: 26px;
+    }
+
+    .fst-clr-spn {
+        color: rgb(255, 149, 0);
+    }
+    .scd-clr-spn{
+        color: rgb(122, 119, 119);
+    }
+    .thrd-clr-spn {
+        color: green;
+    }
+
+    .txt-dec {
+        text-decoration: none;
+        color: black;
+        font-weight: 800;
+        font-size: large;
+        font-size: 15px;
+        font-family: 'Alegreya', cursive;
+    }
+
+    .btn:hover {
+
+        font-size: 17px;
+        font-weight: 900;
+    }
+
+    .btn {
+        color: black;
+        border: 3px solod white;
+    }
+
+    .col-img-pd {
+        padding: 10px;
+    }
+
+    /* SM */
+    .footer-bg-ft-cl {
+        background-color: darkblue;
+        color: white;
+        font-family: Sunshine-Boy;
+    }
+
+    .li-lst-none {
+        list-style-type: none;
+    }
+
+    .text-dc-clr {
+        color: white;
+        text-decoration: none;
+    }
+
+    .sp {
+        font-size: 22px;
+        text-transform: uppercase;
+    }
+
+    .sp2 {
+        font-size: 17px;
+        text-transform: uppercase;
+    }
+
+    /* .cap{
+         color: white ;
+         width: max-content;
+         border: 2px solid black;
+         padding: 10px 10px;
+         margin-top: 40px;
+         margin-bottom: 40px;
+         font-family:kalam;
+         font-size: x-large;
+         text-shadow: 2px 2px 5px;
+         border-radius:60%;
+         box-shadow: 2px 2px 5px black;
+        } */
+    /* .cap:hover{
+          width: max-content;
+         border: 2px solid deeppink;
+         padding: 10px 10px;
+         margin-top: 40px;
+         margin-bottom: 40px;
+         font-family:kalam;
+         font-size: x-large;
+         text-shadow: 2px 2px 5px aqua;
+         border-radius:60%;
+         box-shadow: 2px 2px 5px rgb(142, 24, 211) inset;
+         cursor: pointer;
+
+        } */
+    /* .bg-img {
+            background-image: url(gallerybg.jpg);
+            background-size: 70%;
+            height: auto;
+            width: auto;
+            
+        } */
