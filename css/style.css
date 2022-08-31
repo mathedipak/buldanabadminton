@@ -1,3 +1,36 @@
+    /* AM */
+    #crd-btn-1 {
+        background-color: rgb(255, 141, 11);
+        text-transform: uppercase;
+        color: aliceblue;
+    }
+
+    #crd-btn-2 {
+        background-color: rgb(175, 175, 175);
+        text-transform: uppercase;
+        color: aliceblue;
+    }
+
+    #crd-btn-3 {
+        background-color: rgb(7, 84, 0);
+        text-transform: uppercase;
+        color: aliceblue
+    }
+
+    .evnt-heading {
+        text-align: center;
+        text-transform: uppercase;
+        font-family: cursive;
+        text-transform: bold;
+        padding: 10px;
+    }
+
+    .a_link {
+        text-decoration: none;
+        color: aliceblue;
+    }
+
+    /* vvvvvvvvvvvv */
     .glr-heading {
         font-family: cursive;
         font-weight: bold;
@@ -5,6 +38,7 @@
         padding: 5px;
         margin: 5px;
     }
+
     .glr-p-size {
         font-size: 26px;
     }
@@ -12,9 +46,11 @@
     .fst-clr-spn {
         color: rgb(255, 149, 0);
     }
-    .scd-clr-spn{
+
+    .scd-clr-spn {
         color: rgb(122, 119, 119);
     }
+
     .thrd-clr-spn {
         color: green;
     }
