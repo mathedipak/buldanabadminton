@@ -1,6 +1,24 @@
-    /* DM */
-    
-    
+    /* RK */
+    .scrt_txt {
+        text-indent: 150px;
+        text-align: justify;
+        font-family: 'Times New Roman', Times, serif
+    }
+    /* SM Players Rank Holders Association Page */
+    .player {
+        width: 200px;
+        height: 200px;
+        margin: 20px;
+        border-radius: 15px;
+
+    }
+
+    .C-Senior,
+    .C-Junior {
+        color: rgb(93, 80, 189);
+        font-size: 40px;
+        font-family: ALEGREYA;
+    }
     /* AM */
     
     #crd-btn-1 {
