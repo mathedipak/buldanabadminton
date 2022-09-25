@@ -1,4 +1,7 @@
     /* RK */
+    .aboutclass {
+        font-family: 'Times New Roman', Times, serif;
+    }
     .scrt_txt {
         text-indent: 150px;
         text-align: justify;
