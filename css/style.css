@@ -1,3 +1,8 @@
+    .event_upcoming {
+        font-family: 'Times New Roman', Times, serif;
+        font-size: large;
+        font-weight: bold;
+    }
     .news_bld_st {
         padding-left: 20px;
         text-align: justify;
